@@ -1,0 +1,1908 @@
+Testing for 1 and 0
+It should work for random inputs too: -1 should equal 0
+Testing for 1 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 1 and 11
+It should work for random inputs too: -1 should equal 2
+Testing for 0 and 11
+It should work for random inputs too: -1 should equal 0
+Testing for 1 and 20
+It should work for random inputs too: -1 should equal 4
+Testing for 2 and 12
+It should work for random inputs too: -1 should equal 7
+Testing for 3 and 12
+It should work for random inputs too: -1 should equal 12
+Testing for 4 and 12
+It should work for random inputs too: -1 should equal 19
+Testing for 5 and 12
+It should work for random inputs too: -1 should equal 27
+Testing for 21 and 30
+It should work for random inputs too: -1 should equal 448
+Testing for 27 and 35
+It should work for random inputs too: -1 should equal 505
+Testing for 15 and 18
+It should work for random inputs too: -1 should equal 225
+Testing for 0 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 2 and 25
+It should work for random inputs too: -1 should equal 13
+Testing for 38 and 18
+It should work for random inputs too: -1 should equal 419
+Testing for 35 and 55
+It should work for random inputs too: -1 should equal 728
+Testing for 3 and 65
+It should work for random inputs too: -1 should equal 51
+Testing for 35 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 16 and 93
+It should work for random inputs too: -1 should equal 549
+Testing for 37 and 54
+It should work for random inputs too: -1 should equal 750
+Testing for 29 and 3
+It should work for random inputs too: -1 should equal 0
+Testing for 39 and 98
+It should work for random inputs too: -1 should equal 1201
+Testing for 8 and 48
+It should work for random inputs too: -1 should equal 134
+Testing for 12 and 52
+It should work for random inputs too: -1 should equal 252
+Testing for 35 and 73
+It should work for random inputs too: -1 should equal 885
+Testing for 8 and 17
+It should work for random inputs too: -1 should equal 70
+Testing for 8 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 17 and 88
+It should work for random inputs too: -1 should equal 581
+Testing for 39 and 22
+It should work for random inputs too: -1 should equal 460
+Testing for 25 and 88
+It should work for random inputs too: -1 should equal 830
+Testing for 16 and 53
+It should work for random inputs too: -1 should equal 389
+Testing for 26 and 80
+It should work for random inputs too: -1 should equal 798
+Testing for 0 and 97
+It should work for random inputs too: -1 should equal 0
+Testing for 9 and 12
+It should work for random inputs too: -1 should equal 76
+Testing for 33 and 69
+It should work for random inputs too: -1 should equal 821
+Testing for 29 and 26
+It should work for random inputs too: -1 should equal 459
+Testing for 29 and 9
+It should work for random inputs too: -1 should equal 0
+Testing for 37 and 94
+It should work for random inputs too: -1 should equal 1120
+Testing for 21 and 7
+It should work for random inputs too: -1 should equal 0
+Testing for 5 and 50
+It should work for random inputs too: -1 should equal 75
+Testing for 20 and 59
+It should work for random inputs too: -1 should equal 583
+Testing for 37 and 89
+It should work for random inputs too: -1 should equal 1064
+Testing for 10 and 69
+It should work for random inputs too: -1 should equal 233
+Testing for 38 and 76
+It should work for random inputs too: -1 should equal 970
+Testing for 31 and 52
+It should work for random inputs too: -1 should equal 668
+Testing for 18 and 72
+It should work for random inputs too: -1 should equal 559
+Testing for 7 and 90
+It should work for random inputs too: -1 should equal 186
+Testing for 35 and 58
+It should work for random inputs too: -1 should equal 763
+Testing for 6 and 46
+It should work for random inputs too: -1 should equal 89
+Testing for 37 and 45
+It should work for random inputs too: -1 should equal 657
+Testing for 13 and 27
+It should work for random inputs too: -1 should equal 199
+Testing for 6 and 92
+It should work for random inputs too: -1 should equal 158
+Testing for 0 and 76
+It should work for random inputs too: -1 should equal 0
+Testing for 26 and 47
+It should work for random inputs too: -1 should equal 577
+Testing for 28 and 13
+It should work for random inputs too: -1 should equal 357
+Testing for 29 and 53
+It should work for random inputs too: -1 should equal 647
+Testing for 10 and 56
+It should work for random inputs too: -1 should equal 203
+Testing for 14 and 82
+It should work for random inputs too: -1 should equal 422
+Testing for 40 and 45
+It should work for random inputs too: -1 should equal 683
+Testing for 8 and 44
+It should work for random inputs too: -1 should equal 126
+Testing for 2 and 76
+It should work for random inputs too: -1 should equal 39
+Testing for 2 and 52
+It should work for random inputs too: -1 should equal 27
+Testing for 22 and 34
+It should work for random inputs too: -1 should equal 475
+Testing for 21 and 94
+It should work for random inputs too: -1 should equal 784
+Testing for 5 and 24
+It should work for random inputs too: -1 should equal 42
+Testing for 31 and 66
+It should work for random inputs too: -1 should equal 777
+Testing for 39 and 38
+It should work for random inputs too: -1 should equal 616
+Testing for 23 and 13
+It should work for random inputs too: -1 should equal 354
+Testing for 36 and 19
+It should work for random inputs too: -1 should equal 415
+Testing for 38 and 61
+It should work for random inputs too: -1 should equal 818
+Testing for 17 and 73
+It should work for random inputs too: -1 should equal 513
+Testing for 29 and 93
+It should work for random inputs too: -1 should equal 937
+Testing for 30 and 0
+It should work for random inputs too: -1 should equal 0
+Testing for 1 and 34
+It should work for random inputs too: -1 should equal 8
+Testing for 4 and 5
+It should work for random inputs too: -1 should equal 0
+Testing for 23 and 7
+It should work for random inputs too: -1 should equal 0
+Testing for 40 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 6 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 27 and 38
+It should work for random inputs too: -1 should equal 532
+Testing for 20 and 58
+It should work for random inputs too: -1 should equal 583
+Testing for 31 and 32
+It should work for random inputs too: -1 should equal 513
+Testing for 29 and 18
+It should work for random inputs too: -1 should equal 401
+Testing for 38 and 40
+It should work for random inputs too: -1 should equal 628
+Testing for 39 and 24
+It should work for random inputs too: -1 should equal 479
+Testing for 38 and 48
+It should work for random inputs too: -1 should equal 704
+Testing for 34 and 23
+It should work for random inputs too: -1 should equal 445
+Testing for 9 and 47
+It should work for random inputs too: -1 should equal 153
+Testing for 37 and 30
+It should work for random inputs too: -1 should equal 528
+Testing for 7 and 40
+It should work for random inputs too: -1 should equal 98
+Testing for 2 and 100
+It should work for random inputs too: -1 should equal 51
+Testing for 6 and 68
+It should work for random inputs too: -1 should equal 122
+Testing for 35 and 34
+It should work for random inputs too: -1 should equal 553
+Testing for 12 and 36
+It should work for random inputs too: -1 should equal 204
+Testing for 40 and 100
+It should work for random inputs too: -1 should equal 1243
+Testing for 28 and 35
+It should work for random inputs too: -1 should equal 511
+Testing for 36 and 35
+It should work for random inputs too: -1 should equal 559
+Testing for 17 and 81
+It should work for random inputs too: -1 should equal 547
+Testing for 5 and 69
+It should work for random inputs too: -1 should equal 97
+Testing for 32 and 81
+It should work for random inputs too: -1 should equal 903
+Testing for 10 and 48
+It should work for random inputs too: -1 should equal 183
+Testing for 4 and 90
+It should work for random inputs too: -1 should equal 97
+Testing for 37 and 45
+It should work for random inputs too: -1 should equal 657
+Testing for 24 and 42
+It should work for random inputs too: -1 should equal 535
+Testing for 6 and 70
+It should work for random inputs too: -1 should equal 125
+Testing for 22 and 64
+It should work for random inputs too: -1 should equal 640
+Testing for 13 and 21
+It should work for random inputs too: -1 should equal 179
+Testing for 7 and 83
+It should work for random inputs too: -1 should equal 172
+Testing for 10 and 83
+It should work for random inputs too: -1 should equal 268
+Testing for 21 and 11
+It should work for random inputs too: -1 should equal 343
+Testing for 23 and 11
+It should work for random inputs too: -1 should equal 343
+Testing for 27 and 58
+It should work for random inputs too: -1 should equal 667
+Testing for 6 and 31
+It should work for random inputs too: -1 should equal 65
+Testing for 23 and 76
+It should work for random inputs too: -1 should equal 722
+Testing for 17 and 25
+It should work for random inputs too: -1 should equal 309
+Testing for 26 and 55
+It should work for random inputs too: -1 should equal 629
+Testing for 36 and 20
+It should work for random inputs too: -1 should equal 433
+Testing for 10 and 89
+It should work for random inputs too: -1 should equal 283
+Testing for 20 and 83
+It should work for random inputs too: -1 should equal 703
+Testing for 12 and 7
+It should work for random inputs too: -1 should equal 0
+Testing for 5 and 67
+It should work for random inputs too: -1 should equal 95
+Testing for 32 and 98
+It should work for random inputs too: -1 should equal 1047
+Testing for 40 and 67
+It should work for random inputs too: -1 should equal 903
+Testing for 30 and 82
+It should work for random inputs too: -1 should equal 883
+Testing for 32 and 64
+It should work for random inputs too: -1 should equal 775
+Testing for 0 and 78
+It should work for random inputs too: -1 should equal 0
+Testing for 36 and 66
+It should work for random inputs too: -1 should equal 847
+Testing for 12 and 91
+It should work for random inputs too: -1 should equal 366
+Testing for 29 and 17
+It should work for random inputs too: -1 should equal 386
+Testing for 2 and 31
+It should work for random inputs too: -1 should equal 16
+Testing for 14 and 94
+It should work for random inputs too: -1 should equal 464
+Testing for 19 and 94
+It should work for random inputs too: -1 should equal 710
+Testing for 4 and 28
+It should work for random inputs too: -1 should equal 35
+Testing for 22 and 64
+It should work for random inputs too: -1 should equal 640
+Testing for 29 and 71
+It should work for random inputs too: -1 should equal 778
+Testing for 29 and 74
+It should work for random inputs too: -1 should equal 807
+Testing for 28 and 96
+It should work for random inputs too: -1 should equal 945
+Testing for 16 and 39
+It should work for random inputs too: -1 should equal 333
+Testing for 36 and 27
+It should work for random inputs too: -1 should equal 487
+Testing for 26 and 95
+It should work for random inputs too: -1 should equal 889
+Testing for 23 and 11
+It should work for random inputs too: -1 should equal 343
+Testing for 36 and 71
+It should work for random inputs too: -1 should equal 883
+Testing for 10 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 12 and 54
+It should work for random inputs too: -1 should equal 258
+Testing for 32 and 71
+It should work for random inputs too: -1 should equal 823
+Testing for 21 and 100
+It should work for random inputs too: -1 should equal 815
+Testing for 33 and 84
+It should work for random inputs too: -1 should equal 953
+Testing for 19 and 86
+It should work for random inputs too: -1 should equal 672
+Testing for 22 and 14
+It should work for random inputs too: -1 should equal 365
+Testing for 40 and 28
+It should work for random inputs too: -1 should equal 523
+Testing for 32 and 24
+It should work for random inputs too: -1 should equal 455
+Testing for 2 and 52
+It should work for random inputs too: -1 should equal 27
+Testing for 2 and 36
+It should work for random inputs too: -1 should equal 19
+Testing for 25 and 57
+It should work for random inputs too: -1 should equal 630
+Testing for 0 and 77
+It should work for random inputs too: -1 should equal 0
+Testing for 29 and 47
+It should work for random inputs too: -1 should equal 604
+Testing for 26 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 26 and 17
+It should work for random inputs too: -1 should equal 382
+Testing for 31 and 75
+It should work for random inputs too: -1 should equal 839
+Testing for 13 and 33
+It should work for random inputs too: -1 should equal 218
+Testing for 30 and 90
+It should work for random inputs too: -1 should equal 943
+Testing for 25 and 60
+It should work for random inputs too: -1 should equal 655
+Testing for 23 and 96
+It should work for random inputs too: -1 should equal 837
+Testing for 37 and 100
+It should work for random inputs too: -1 should equal 1175
+Testing for 4 and 0
+It should work for random inputs too: -1 should equal 0
+Testing for 34 and 70
+It should work for random inputs too: -1 should equal 853
+Testing for 31 and 29
+It should work for random inputs too: -1 should equal 482
+Testing for 3 and 56
+It should work for random inputs too: -1 should equal 45
+Testing for 1 and 37
+It should work for random inputs too: -1 should equal 8
+Testing for 2 and 65
+It should work for random inputs too: -1 should equal 33
+Testing for 12 and 22
+It should work for random inputs too: -1 should equal 162
+Testing for 18 and 16
+It should work for random inputs too: -1 should equal 307
+Testing for 14 and 94
+It should work for random inputs too: -1 should equal 464
+Testing for 40 and 78
+It should work for random inputs too: -1 should equal 1023
+Testing for 25 and 32
+It should work for random inputs too: -1 should equal 480
+Testing for 38 and 33
+It should work for random inputs too: -1 should equal 552
+Testing for 4 and 62
+It should work for random inputs too: -1 should equal 69
+Testing for 22 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 1 and 45
+It should work for random inputs too: -1 should equal 10
+Testing for 31 and 39
+It should work for random inputs too: -1 should equal 560
+Testing for 38 and 22
+It should work for random inputs too: -1 should equal 457
+Testing for 5 and 0
+It should work for random inputs too: -1 should equal 0
+Testing for 13 and 52
+It should work for random inputs too: -1 should equal 283
+Testing for 37 and 47
+It should work for random inputs too: -1 should equal 676
+Testing for 16 and 73
+It should work for random inputs too: -1 should equal 469
+Testing for 4 and 79
+It should work for random inputs too: -1 should equal 85
+Testing for 0 and 5
+It should work for random inputs too: -1 should equal 0
+Testing for 25 and 20
+It should work for random inputs too: -1 should equal 405
+Testing for 7 and 3
+It should work for random inputs too: -1 should equal 0
+Testing for 7 and 99
+It should work for random inputs too: -1 should equal 200
+Testing for 1 and 25
+It should work for random inputs too: -1 should equal 5
+Testing for 6 and 73
+It should work for random inputs too: -1 should equal 128
+Testing for 29 and 87
+It should work for random inputs too: -1 should equal 894
+Testing for 21 and 55
+It should work for random inputs too: -1 should equal 574
+Testing for 24 and 32
+It should work for random inputs too: -1 should equal 475
+Testing for 24 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 32 and 24
+It should work for random inputs too: -1 should equal 455
+Testing for 34 and 42
+It should work for random inputs too: -1 should equal 615
+Testing for 35 and 53
+It should work for random inputs too: -1 should equal 710
+Testing for 23 and 31
+It should work for random inputs too: -1 should equal 458
+Testing for 14 and 60
+It should work for random inputs too: -1 should equal 345
+Testing for 38 and 94
+It should work for random inputs too: -1 should equal 1141
+Testing for 40 and 85
+It should work for random inputs too: -1 should equal 1083
+Testing for 22 and 67
+It should work for random inputs too: -1 should equal 651
+Testing for 21 and 88
+It should work for random inputs too: -1 should equal 752
+Testing for 8 and 92
+It should work for random inputs too: -1 should equal 222
+Testing for 39 and 95
+It should work for random inputs too: -1 should equal 1162
+Testing for 0 and 20
+It should work for random inputs too: -1 should equal 0
+Testing for 1 and 79
+It should work for random inputs too: -1 should equal 19
+Testing for 36 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 20 and 36
+It should work for random inputs too: -1 should equal 473
+Testing for 17 and 78
+It should work for random inputs too: -1 should equal 539
+Testing for 16 and 57
+It should work for random inputs too: -1 should equal 405
+Testing for 4 and 70
+It should work for random inputs too: -1 should equal 77
+Testing for 0 and 57
+It should work for random inputs too: -1 should equal 0
+Testing for 27 and 24
+It should work for random inputs too: -1 should equal 437
+Testing for 29 and 27
+It should work for random inputs too: -1 should equal 459
+Testing for 24 and 30
+It should work for random inputs too: -1 should equal 463
+Testing for 8 and 94
+It should work for random inputs too: -1 should equal 226
+Testing for 38 and 54
+It should work for random inputs too: -1 should equal 761
+Testing for 1 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 14 and 74
+It should work for random inputs too: -1 should equal 394
+Testing for 11 and 59
+It should work for random inputs too: -1 should equal 238
+Testing for 37 and 69
+It should work for random inputs too: -1 should equal 879
+Testing for 10 and 81
+It should work for random inputs too: -1 should equal 263
+Testing for 5 and 32
+It should work for random inputs too: -1 should equal 52
+Testing for 13 and 80
+It should work for random inputs too: -1 should equal 374
+Testing for 32 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 8 and 46
+It should work for random inputs too: -1 should equal 130
+Testing for 27 and 26
+It should work for random inputs too: -1 should equal 451
+Testing for 26 and 48
+It should work for random inputs too: -1 should equal 590
+Testing for 8 and 14
+It should work for random inputs too: -1 should equal 66
+Testing for 13 and 97
+It should work for random inputs too: -1 should equal 426
+Testing for 14 and 41
+It should work for random inputs too: -1 should equal 275
+Testing for 29 and 18
+It should work for random inputs too: -1 should equal 401
+Testing for 23 and 69
+It should work for random inputs too: -1 should equal 676
+Testing for 4 and 0
+It should work for random inputs too: -1 should equal 0
+Testing for 8 and 82
+It should work for random inputs too: -1 should equal 202
+Testing for 11 and 11
+It should work for random inputs too: -1 should equal 106
+Testing for 9 and 92
+It should work for random inputs too: -1 should equal 256
+Testing for 10 and 32
+It should work for random inputs too: -1 should equal 143
+Testing for 1 and 71
+It should work for random inputs too: -1 should equal 17
+Testing for 13 and 89
+It should work for random inputs too: -1 should equal 400
+Testing for 38 and 67
+It should work for random inputs too: -1 should equal 875
+Testing for 36 and 89
+It should work for random inputs too: -1 should equal 1045
+Testing for 31 and 50
+It should work for random inputs too: -1 should equal 653
+Testing for 17 and 30
+It should work for random inputs too: -1 should equal 335
+Testing for 24 and 20
+It should work for random inputs too: -1 should equal 403
+Testing for 18 and 74
+It should work for random inputs too: -1 should equal 568
+Testing for 2 and 73
+It should work for random inputs too: -1 should equal 37
+Testing for 16 and 75
+It should work for random inputs too: -1 should equal 477
+Testing for 32 and 59
+It should work for random inputs too: -1 should equal 727
+Testing for 0 and 74
+It should work for random inputs too: -1 should equal 0
+Testing for 33 and 40
+It should work for random inputs too: -1 should equal 590
+Testing for 31 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 10 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 29 and 3
+It should work for random inputs too: -1 should equal 0
+Testing for 18 and 94
+It should work for random inputs too: -1 should equal 658
+Testing for 40 and 53
+It should work for random inputs too: -1 should equal 763
+Testing for 36 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 3 and 12
+It should work for random inputs too: -1 should equal 12
+Testing for 7 and 32
+It should work for random inputs too: -1 should equal 84
+Testing for 38 and 97
+It should work for random inputs too: -1 should equal 1160
+Testing for 27 and 21
+It should work for random inputs too: -1 should equal 410
+Testing for 2 and 61
+It should work for random inputs too: -1 should equal 31
+Testing for 24 and 5
+It should work for random inputs too: -1 should equal 0
+Testing for 25 and 78
+It should work for random inputs too: -1 should equal 768
+Testing for 21 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 15 and 69
+It should work for random inputs too: -1 should equal 412
+Testing for 5 and 70
+It should work for random inputs too: -1 should equal 100
+Testing for 11 and 72
+It should work for random inputs too: -1 should equal 276
+Testing for 33 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 40 and 48
+It should work for random inputs too: -1 should equal 723
+Testing for 13 and 35
+It should work for random inputs too: -1 should equal 225
+Testing for 20 and 72
+It should work for random inputs too: -1 should equal 653
+Testing for 10 and 24
+It should work for random inputs too: -1 should equal 123
+Testing for 6 and 12
+It should work for random inputs too: -1 should equal 38
+Testing for 17 and 85
+It should work for random inputs too: -1 should equal 564
+Testing for 29 and 12
+It should work for random inputs too: -1 should equal 357
+Testing for 29 and 83
+It should work for random inputs too: -1 should equal 865
+Testing for 18 and 81
+It should work for random inputs too: -1 should equal 595
+Testing for 31 and 100
+It should work for random inputs too: -1 should equal 1040
+Testing for 0 and 11
+It should work for random inputs too: -1 should equal 0
+Testing for 26 and 99
+It should work for random inputs too: -1 should equal 915
+Testing for 33 and 31
+It should work for random inputs too: -1 should equal 508
+Testing for 8 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 19 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 20 and 37
+It should work for random inputs too: -1 should equal 473
+Testing for 18 and 49
+It should work for random inputs too: -1 should equal 451
+Testing for 27 and 48
+It should work for random inputs too: -1 should equal 599
+Testing for 12 and 84
+It should work for random inputs too: -1 should equal 348
+Testing for 2 and 13
+It should work for random inputs too: -1 should equal 7
+Testing for 15 and 37
+It should work for random inputs too: -1 should equal 292
+Testing for 21 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 7 and 37
+It should work for random inputs too: -1 should equal 91
+Testing for 4 and 97
+It should work for random inputs too: -1 should equal 103
+Testing for 7 and 54
+It should work for random inputs too: -1 should equal 123
+Testing for 19 and 71
+It should work for random inputs too: -1 should equal 596
+Testing for 4 and 22
+It should work for random inputs too: -1 should equal 29
+Testing for 6 and 77
+It should work for random inputs too: -1 should equal 134
+Testing for 28 and 5
+It should work for random inputs too: -1 should equal 0
+Testing for 17 and 87
+It should work for random inputs too: -1 should equal 573
+Testing for 31 and 65
+It should work for random inputs too: -1 should equal 761
+Testing for 23 and 54
+It should work for random inputs too: -1 should equal 596
+Testing for 8 and 73
+It should work for random inputs too: -1 should equal 182
+Testing for 40 and 24
+It should work for random inputs too: -1 should equal 483
+Testing for 30 and 49
+It should work for random inputs too: -1 should equal 628
+Testing for 40 and 73
+It should work for random inputs too: -1 should equal 963
+Testing for 19 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 38 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 29 and 64
+It should work for random inputs too: -1 should equal 734
+Testing for 4 and 75
+It should work for random inputs too: -1 should equal 81
+Testing for 20 and 48
+It should work for random inputs too: -1 should equal 533
+Testing for 30 and 26
+It should work for random inputs too: -1 should equal 463
+Testing for 40 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 33 and 95
+It should work for random inputs too: -1 should equal 1036
+Testing for 13 and 19
+It should work for random inputs too: -1 should equal 173
+Testing for 31 and 66
+It should work for random inputs too: -1 should equal 777
+Testing for 17 and 68
+It should work for random inputs too: -1 should equal 496
+Testing for 8 and 68
+It should work for random inputs too: -1 should equal 174
+Testing for 5 and 84
+It should work for random inputs too: -1 should equal 117
+Testing for 15 and 44
+It should work for random inputs too: -1 should equal 322
+Testing for 0 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 15 and 81
+It should work for random inputs too: -1 should equal 457
+Testing for 11 and 61
+It should work for random inputs too: -1 should equal 243
+Testing for 33 and 92
+It should work for random inputs too: -1 should equal 1019
+Testing for 3 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 25 and 26
+It should work for random inputs too: -1 should equal 443
+Testing for 7 and 28
+It should work for random inputs too: -1 should equal 77
+Testing for 19 and 96
+It should work for random inputs too: -1 should equal 719
+Testing for 9 and 30
+It should work for random inputs too: -1 should equal 117
+Testing for 4 and 68
+It should work for random inputs too: -1 should equal 75
+Testing for 5 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 13 and 88
+It should work for random inputs too: -1 should equal 400
+Testing for 23 and 88
+It should work for random inputs too: -1 should equal 791
+Testing for 17 and 98
+It should work for random inputs too: -1 should equal 624
+Testing for 30 and 68
+It should work for random inputs too: -1 should equal 778
+Testing for 35 and 58
+It should work for random inputs too: -1 should equal 763
+Testing for 19 and 59
+It should work for random inputs too: -1 should equal 539
+Testing for 31 and 45
+It should work for random inputs too: -1 should equal 606
+Testing for 12 and 50
+It should work for random inputs too: -1 should equal 246
+Testing for 21 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 38 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 7 and 75
+It should work for random inputs too: -1 should equal 158
+Testing for 1 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 0 and 92
+It should work for random inputs too: -1 should equal 0
+Testing for 15 and 65
+It should work for random inputs too: -1 should equal 397
+Testing for 16 and 53
+It should work for random inputs too: -1 should equal 389
+Testing for 12 and 22
+It should work for random inputs too: -1 should equal 162
+Testing for 22 and 44
+It should work for random inputs too: -1 should equal 530
+Testing for 35 and 91
+It should work for random inputs too: -1 should equal 1043
+Testing for 9 and 16
+It should work for random inputs too: -1 should equal 85
+Testing for 34 and 31
+It should work for random inputs too: -1 should equal 513
+Testing for 24 and 82
+It should work for random inputs too: -1 should equal 775
+Testing for 23 and 72
+It should work for random inputs too: -1 should equal 699
+Testing for 30 and 61
+It should work for random inputs too: -1 should equal 718
+Testing for 17 and 43
+It should work for random inputs too: -1 should equal 386
+Testing for 31 and 54
+It should work for random inputs too: -1 should equal 684
+Testing for 4 and 43
+It should work for random inputs too: -1 should equal 49
+Testing for 9 and 1
+It should work for random inputs too: -1 should equal 0
+Testing for 14 and 43
+It should work for random inputs too: -1 should equal 282
+Testing for 37 and 21
+It should work for random inputs too: -1 should equal 435
+Testing for 10 and 61
+It should work for random inputs too: -1 should equal 213
+Testing for 15 and 51
+It should work for random inputs too: -1 should equal 345
+Testing for 15 and 98
+It should work for random inputs too: -1 should equal 525
+Testing for 13 and 89
+It should work for random inputs too: -1 should equal 400
+Testing for 14 and 48
+It should work for random inputs too: -1 should equal 303
+Testing for 9 and 83
+It should work for random inputs too: -1 should equal 234
+Testing for 13 and 75
+It should work for random inputs too: -1 should equal 355
+Testing for 21 and 63
+It should work for random inputs too: -1 should equal 616
+Testing for 4 and 19
+It should work for random inputs too: -1 should equal 25
+Testing for 25 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 16 and 25
+It should work for random inputs too: -1 should equal 277
+Testing for 2 and 98
+It should work for random inputs too: -1 should equal 50
+Testing for 22 and 20
+It should work for random inputs too: -1 should equal 398
+Testing for 9 and 13
+It should work for random inputs too: -1 should equal 76
+Testing for 9 and 15
+It should work for random inputs too: -1 should equal 81
+Testing for 40 and 56
+It should work for random inputs too: -1 should equal 803
+Testing for 37 and 71
+It should work for random inputs too: -1 should equal 898
+Testing for 9 and 74
+It should work for random inputs too: -1 should equal 216
+Testing for 24 and 64
+It should work for random inputs too: -1 should equal 667
+Testing for 26 and 38
+It should work for random inputs too: -1 should equal 525
+Testing for 12 and 80
+It should work for random inputs too: -1 should equal 336
+Testing for 35 and 56
+It should work for random inputs too: -1 should equal 745
+Testing for 15 and 70
+It should work for random inputs too: -1 should equal 420
+Testing for 25 and 7
+It should work for random inputs too: -1 should equal 0
+Testing for 28 and 35
+It should work for random inputs too: -1 should equal 511
+Testing for 29 and 19
+It should work for random inputs too: -1 should equal 401
+Testing for 5 and 90
+It should work for random inputs too: -1 should equal 125
+Testing for 1 and 40
+It should work for random inputs too: -1 should equal 9
+Testing for 33 and 51
+It should work for random inputs too: -1 should equal 673
+Testing for 21 and 66
+It should work for random inputs too: -1 should equal 637
+Testing for 28 and 78
+It should work for random inputs too: -1 should equal 819
+Testing for 38 and 19
+It should work for random inputs too: -1 should equal 419
+Testing for 35 and 55
+It should work for random inputs too: -1 should equal 728
+Testing for 6 and 44
+It should work for random inputs too: -1 should equal 86
+Testing for 37 and 46
+It should work for random inputs too: -1 should equal 676
+Testing for 1 and 97
+It should work for random inputs too: -1 should equal 23
+Testing for 26 and 71
+It should work for random inputs too: -1 should equal 733
+Testing for 23 and 93
+It should work for random inputs too: -1 should equal 814
+Testing for 24 and 45
+It should work for random inputs too: -1 should equal 547
+Testing for 24 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 23 and 25
+It should work for random inputs too: -1 should equal 423
+Testing for 22 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 16 and 100
+It should work for random inputs too: -1 should equal 581
+Testing for 34 and 18
+It should work for random inputs too: -1 should equal 411
+Testing for 21 and 46
+It should work for random inputs too: -1 should equal 532
+Testing for 40 and 48
+It should work for random inputs too: -1 should equal 723
+Testing for 17 and 29
+It should work for random inputs too: -1 should equal 326
+Testing for 14 and 25
+It should work for random inputs too: -1 should equal 219
+Testing for 38 and 49
+It should work for random inputs too: -1 should equal 704
+Testing for 11 and 7
+It should work for random inputs too: -1 should equal 0
+Testing for 7 and 98
+It should work for random inputs too: -1 should equal 200
+Testing for 24 and 83
+It should work for random inputs too: -1 should equal 775
+Testing for 9 and 58
+It should work for random inputs too: -1 should equal 180
+Testing for 37 and 47
+It should work for random inputs too: -1 should equal 676
+Testing for 22 and 31
+It should work for random inputs too: -1 should equal 453
+Testing for 1 and 53
+It should work for random inputs too: -1 should equal 12
+Testing for 9 and 13
+It should work for random inputs too: -1 should equal 76
+Testing for 26 and 33
+It should work for random inputs too: -1 should equal 486
+Testing for 17 and 47
+It should work for random inputs too: -1 should equal 403
+Testing for 40 and 48
+It should work for random inputs too: -1 should equal 723
+Testing for 7 and 31
+It should work for random inputs too: -1 should equal 81
+Testing for 12 and 91
+It should work for random inputs too: -1 should equal 366
+Testing for 23 and 44
+It should work for random inputs too: -1 should equal 538
+Testing for 21 and 56
+It should work for random inputs too: -1 should equal 584
+Testing for 6 and 14
+It should work for random inputs too: -1 should equal 41
+Testing for 39 and 51
+It should work for random inputs too: -1 should equal 733
+Testing for 6 and 77
+It should work for random inputs too: -1 should equal 134
+Testing for 21 and 25
+It should work for random inputs too: -1 should equal 416
+Testing for 16 and 100
+It should work for random inputs too: -1 should equal 581
+Testing for 21 and 75
+It should work for random inputs too: -1 should equal 679
+Testing for 3 and 31
+It should work for random inputs too: -1 should equal 26
+Testing for 7 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 1 and 18
+It should work for random inputs too: -1 should equal 4
+Testing for 14 and 75
+It should work for random inputs too: -1 should equal 394
+Testing for 16 and 28
+It should work for random inputs too: -1 should equal 293
+Testing for 6 and 17
+It should work for random inputs too: -1 should equal 44
+Testing for 15 and 30
+It should work for random inputs too: -1 should equal 270
+Testing for 27 and 20
+It should work for random inputs too: -1 should equal 410
+Testing for 29 and 55
+It should work for random inputs too: -1 should equal 662
+Testing for 13 and 7
+It should work for random inputs too: -1 should equal 0
+Testing for 7 and 84
+It should work for random inputs too: -1 should equal 175
+Testing for 27 and 43
+It should work for random inputs too: -1 should equal 559
+Testing for 14 and 70
+It should work for random inputs too: -1 should equal 380
+Testing for 1 and 98
+It should work for random inputs too: -1 should equal 24
+Testing for 4 and 78
+It should work for random inputs too: -1 should equal 85
+Testing for 6 and 46
+It should work for random inputs too: -1 should equal 89
+Testing for 12 and 79
+It should work for random inputs too: -1 should equal 330
+Testing for 24 and 19
+It should work for random inputs too: -1 should equal 391
+Testing for 26 and 56
+It should work for random inputs too: -1 should equal 642
+Testing for 39 and 48
+It should work for random inputs too: -1 should equal 713
+Testing for 30 and 85
+It should work for random inputs too: -1 should equal 898
+Testing for 18 and 11
+It should work for random inputs too: -1 should equal 280
+Testing for 20 and 69
+It should work for random inputs too: -1 should equal 633
+Testing for 12 and 92
+It should work for random inputs too: -1 should equal 372
+Testing for 29 and 100
+It should work for random inputs too: -1 should equal 995
+Testing for 14 and 26
+It should work for random inputs too: -1 should equal 226
+Testing for 6 and 32
+It should work for random inputs too: -1 should equal 68
+Testing for 36 and 42
+It should work for random inputs too: -1 should equal 631
+Testing for 1 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 31 and 97
+It should work for random inputs too: -1 should equal 1009
+Testing for 26 and 22
+It should work for random inputs too: -1 should equal 421
+Testing for 27 and 45
+It should work for random inputs too: -1 should equal 572
+Testing for 9 and 92
+It should work for random inputs too: -1 should equal 256
+Testing for 13 and 83
+It should work for random inputs too: -1 should equal 381
+Testing for 15 and 96
+It should work for random inputs too: -1 should equal 517
+Testing for 21 and 71
+It should work for random inputs too: -1 should equal 658
+Testing for 7 and 100
+It should work for random inputs too: -1 should equal 203
+Testing for 39 and 55
+It should work for random inputs too: -1 should equal 772
+Testing for 19 and 80
+It should work for random inputs too: -1 should equal 643
+Testing for 23 and 51
+It should work for random inputs too: -1 should equal 573
+Testing for 21 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 8 and 52
+It should work for random inputs too: -1 should equal 142
+Testing for 40 and 24
+It should work for random inputs too: -1 should equal 483
+Testing for 1 and 43
+It should work for random inputs too: -1 should equal 10
+Testing for 16 and 1
+It should work for random inputs too: -1 should equal 0
+Testing for 18 and 38
+It should work for random inputs too: -1 should equal 406
+Testing for 20 and 48
+It should work for random inputs too: -1 should equal 533
+Testing for 34 and 1
+It should work for random inputs too: -1 should equal 0
+Testing for 17 and 77
+It should work for random inputs too: -1 should equal 530
+Testing for 39 and 38
+It should work for random inputs too: -1 should equal 616
+Testing for 12 and 48
+It should work for random inputs too: -1 should equal 240
+Testing for 26 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 33 and 21
+It should work for random inputs too: -1 should equal 425
+Testing for 18 and 18
+It should work for random inputs too: -1 should equal 316
+Testing for 31 and 9
+It should work for random inputs too: -1 should equal 0
+Testing for 21 and 18
+It should work for random inputs too: -1 should equal 385
+Testing for 14 and 40
+It should work for random inputs too: -1 should equal 275
+Testing for 29 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 21 and 41
+It should work for random inputs too: -1 should equal 500
+Testing for 13 and 23
+It should work for random inputs too: -1 should equal 186
+Testing for 14 and 3
+It should work for random inputs too: -1 should equal 0
+Testing for 28 and 27
+It should work for random inputs too: -1 should equal 455
+Testing for 22 and 25
+It should work for random inputs too: -1 should equal 420
+Testing for 23 and 95
+It should work for random inputs too: -1 should equal 826
+Testing for 19 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 13 and 14
+It should work for random inputs too: -1 should equal 160
+Testing for 3 and 78
+It should work for random inputs too: -1 should equal 62
+Testing for 30 and 13
+It should work for random inputs too: -1 should equal 358
+Testing for 31 and 78
+It should work for random inputs too: -1 should equal 870
+Testing for 29 and 36
+It should work for random inputs too: -1 should equal 531
+Testing for 21 and 94
+It should work for random inputs too: -1 should equal 784
+Testing for 27 and 47
+It should work for random inputs too: -1 should equal 586
+Testing for 18 and 60
+It should work for random inputs too: -1 should equal 505
+Testing for 10 and 84
+It should work for random inputs too: -1 should equal 273
+Testing for 25 and 14
+It should work for random inputs too: -1 should equal 368
+Testing for 37 and 3
+It should work for random inputs too: -1 should equal 0
+Testing for 38 and 14
+It should work for random inputs too: -1 should equal 381
+Testing for 2 and 61
+It should work for random inputs too: -1 should equal 31
+Testing for 1 and 54
+It should work for random inputs too: -1 should equal 13
+Testing for 23 and 42
+It should work for random inputs too: -1 should equal 527
+Testing for 31 and 20
+It should work for random inputs too: -1 should equal 420
+Testing for 17 and 78
+It should work for random inputs too: -1 should equal 539
+Testing for 38 and 50
+It should work for random inputs too: -1 should equal 723
+Testing for 28 and 64
+It should work for random inputs too: -1 should equal 721
+Testing for 24 and 58
+It should work for random inputs too: -1 should equal 631
+Testing for 32 and 25
+It should work for random inputs too: -1 should equal 455
+Testing for 35 and 95
+It should work for random inputs too: -1 should equal 1078
+Testing for 12 and 16
+It should work for random inputs too: -1 should equal 144
+Testing for 14 and 18
+It should work for random inputs too: -1 should equal 198
+Testing for 32 and 41
+It should work for random inputs too: -1 should equal 583
+Testing for 22 and 14
+It should work for random inputs too: -1 should equal 365
+Testing for 8 and 48
+It should work for random inputs too: -1 should equal 134
+Testing for 3 and 66
+It should work for random inputs too: -1 should equal 53
+Testing for 35 and 53
+It should work for random inputs too: -1 should equal 710
+Testing for 22 and 86
+It should work for random inputs too: -1 should equal 761
+Testing for 3 and 65
+It should work for random inputs too: -1 should equal 51
+Testing for 0 and 44
+It should work for random inputs too: -1 should equal 0
+Testing for 10 and 12
+It should work for random inputs too: -1 should equal 93
+Testing for 29 and 74
+It should work for random inputs too: -1 should equal 807
+Testing for 39 and 22
+It should work for random inputs too: -1 should equal 460
+Testing for 13 and 79
+It should work for random inputs too: -1 should equal 368
+Testing for 27 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 35 and 98
+It should work for random inputs too: -1 should equal 1113
+Testing for 27 and 84
+It should work for random inputs too: -1 should equal 842
+Testing for 19 and 92
+It should work for random inputs too: -1 should equal 700
+Testing for 9 and 47
+It should work for random inputs too: -1 should equal 153
+Testing for 24 and 57
+It should work for random inputs too: -1 should equal 619
+Testing for 32 and 79
+It should work for random inputs too: -1 should equal 887
+Testing for 8 and 11
+It should work for random inputs too: -1 should equal 58
+Testing for 38 and 11
+It should work for random inputs too: -1 should equal 343
+Testing for 39 and 33
+It should work for random inputs too: -1 should equal 557
+Testing for 34 and 79
+It should work for random inputs too: -1 should equal 921
+Testing for 9 and 27
+It should work for random inputs too: -1 should equal 108
+Testing for 9 and 67
+It should work for random inputs too: -1 should equal 198
+Testing for 11 and 23
+It should work for random inputs too: -1 should equal 139
+Testing for 32 and 94
+It should work for random inputs too: -1 should equal 1015
+Testing for 7 and 42
+It should work for random inputs too: -1 should equal 102
+Testing for 20 and 92
+It should work for random inputs too: -1 should equal 753
+Testing for 34 and 7
+It should work for random inputs too: -1 should equal 0
+Testing for 25 and 29
+It should work for random inputs too: -1 should equal 455
+Testing for 7 and 11
+It should work for random inputs too: -1 should equal 46
+Testing for 5 and 70
+It should work for random inputs too: -1 should equal 100
+Testing for 31 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 23 and 61
+It should work for random inputs too: -1 should equal 630
+Testing for 16 and 89
+It should work for random inputs too: -1 should equal 533
+Testing for 17 and 76
+It should work for random inputs too: -1 should equal 530
+Testing for 14 and 55
+It should work for random inputs too: -1 should equal 324
+Testing for 33 and 13
+It should work for random inputs too: -1 should equal 359
+Testing for 39 and 0
+It should work for random inputs too: -1 should equal 0
+Testing for 15 and 11
+It should work for random inputs too: -1 should equal 195
+Testing for 17 and 15
+It should work for random inputs too: -1 should equal 267
+Testing for 30 and 5
+It should work for random inputs too: -1 should equal 0
+Testing for 13 and 56
+It should work for random inputs too: -1 should equal 296
+Testing for 12 and 75
+It should work for random inputs too: -1 should equal 318
+Testing for 4 and 39
+It should work for random inputs too: -1 should equal 45
+Testing for 11 and 30
+It should work for random inputs too: -1 should equal 161
+Testing for 40 and 29
+It should work for random inputs too: -1 should equal 523
+Testing for 37 and 57
+It should work for random inputs too: -1 should equal 768
+Testing for 31 and 76
+It should work for random inputs too: -1 should equal 854
+Testing for 2 and 16
+It should work for random inputs too: -1 should equal 9
+Testing for 12 and 81
+It should work for random inputs too: -1 should equal 336
+Testing for 9 and 13
+It should work for random inputs too: -1 should equal 76
+Testing for 21 and 28
+It should work for random inputs too: -1 should equal 437
+Testing for 7 and 52
+It should work for random inputs too: -1 should equal 119
+Testing for 16 and 43
+It should work for random inputs too: -1 should equal 349
+Testing for 6 and 62
+It should work for random inputs too: -1 should equal 113
+Testing for 35 and 48
+It should work for random inputs too: -1 should equal 675
+Testing for 1 and 71
+It should work for random inputs too: -1 should equal 17
+Testing for 36 and 36
+It should work for random inputs too: -1 should equal 577
+Testing for 34 and 78
+It should work for random inputs too: -1 should equal 921
+Testing for 31 and 3
+It should work for random inputs too: -1 should equal 0
+Testing for 18 and 54
+It should work for random inputs too: -1 should equal 478
+Testing for 17 and 53
+It should work for random inputs too: -1 should equal 428
+Testing for 2 and 3
+It should work for random inputs too: -1 should equal 0
+Testing for 38 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 2 and 69
+It should work for random inputs too: -1 should equal 35
+Testing for 28 and 70
+It should work for random inputs too: -1 should equal 763
+Testing for 31 and 25
+It should work for random inputs too: -1 should equal 451
+Testing for 34 and 25
+It should work for random inputs too: -1 should equal 462
+Testing for 19 and 25
+It should work for random inputs too: -1 should equal 377
+Testing for 9 and 47
+It should work for random inputs too: -1 should equal 153
+Testing for 10 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 10 and 68
+It should work for random inputs too: -1 should equal 233
+Testing for 19 and 53
+It should work for random inputs too: -1 should equal 510
+Testing for 0 and 82
+It should work for random inputs too: -1 should equal 0
+Testing for 16 and 100
+It should work for random inputs too: -1 should equal 581
+Testing for 32 and 25
+It should work for random inputs too: -1 should equal 455
+Testing for 1 and 97
+It should work for random inputs too: -1 should equal 23
+Testing for 8 and 31
+It should work for random inputs too: -1 should equal 98
+Testing for 33 and 73
+It should work for random inputs too: -1 should equal 854
+Testing for 30 and 9
+It should work for random inputs too: -1 should equal 0
+Testing for 6 and 42
+It should work for random inputs too: -1 should equal 83
+Testing for 25 and 57
+It should work for random inputs too: -1 should equal 630
+Testing for 33 and 68
+It should work for random inputs too: -1 should equal 821
+Testing for 26 and 67
+It should work for random inputs too: -1 should equal 707
+Testing for 15 and 98
+It should work for random inputs too: -1 should equal 525
+Testing for 3 and 29
+It should work for random inputs too: -1 should equal 24
+Testing for 32 and 77
+It should work for random inputs too: -1 should equal 871
+Testing for 13 and 83
+It should work for random inputs too: -1 should equal 381
+Testing for 39 and 62
+It should work for random inputs too: -1 should equal 850
+Testing for 32 and 81
+It should work for random inputs too: -1 should equal 903
+Testing for 11 and 90
+It should work for random inputs too: -1 should equal 326
+Testing for 36 and 59
+It should work for random inputs too: -1 should equal 775
+Testing for 13 and 52
+It should work for random inputs too: -1 should equal 283
+Testing for 19 and 80
+It should work for random inputs too: -1 should equal 643
+Testing for 16 and 12
+It should work for random inputs too: -1 should equal 229
+Testing for 1 and 68
+It should work for random inputs too: -1 should equal 16
+Testing for 8 and 70
+It should work for random inputs too: -1 should equal 178
+Testing for 6 and 81
+It should work for random inputs too: -1 should equal 140
+Testing for 19 and 80
+It should work for random inputs too: -1 should equal 643
+Testing for 7 and 77
+It should work for random inputs too: -1 should equal 161
+Testing for 15 and 64
+It should work for random inputs too: -1 should equal 397
+Testing for 8 and 27
+It should work for random inputs too: -1 should equal 90
+Testing for 9 and 93
+It should work for random inputs too: -1 should equal 256
+Testing for 34 and 34
+It should work for random inputs too: -1 should equal 547
+Testing for 19 and 17
+It should work for random inputs too: -1 should equal 339
+Testing for 34 and 39
+It should work for random inputs too: -1 should equal 581
+Testing for 4 and 72
+It should work for random inputs too: -1 should equal 79
+Testing for 29 and 33
+It should work for random inputs too: -1 should equal 502
+Testing for 17 and 23
+It should work for random inputs too: -1 should equal 301
+Testing for 21 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 32 and 100
+It should work for random inputs too: -1 should equal 1063
+Testing for 18 and 62
+It should work for random inputs too: -1 should equal 514
+Testing for 34 and 75
+It should work for random inputs too: -1 should equal 887
+Testing for 19 and 72
+It should work for random inputs too: -1 should equal 605
+Testing for 9 and 51
+It should work for random inputs too: -1 should equal 162
+Testing for 10 and 55
+It should work for random inputs too: -1 should equal 198
+Testing for 25 and 98
+It should work for random inputs too: -1 should equal 893
+Testing for 15 and 91
+It should work for random inputs too: -1 should equal 495
+Testing for 5 and 57
+It should work for random inputs too: -1 should equal 82
+Testing for 10 and 77
+It should work for random inputs too: -1 should equal 253
+Testing for 6 and 36
+It should work for random inputs too: -1 should equal 74
+Testing for 28 and 1
+It should work for random inputs too: -1 should equal 0
+Testing for 35 and 78
+It should work for random inputs too: -1 should equal 938
+Testing for 10 and 27
+It should work for random inputs too: -1 should equal 128
+Testing for 36 and 46
+It should work for random inputs too: -1 should equal 667
+Testing for 7 and 91
+It should work for random inputs too: -1 should equal 186
+Testing for 4 and 44
+It should work for random inputs too: -1 should equal 51
+Testing for 27 and 82
+It should work for random inputs too: -1 should equal 829
+Testing for 18 and 18
+It should work for random inputs too: -1 should equal 316
+Testing for 7 and 64
+It should work for random inputs too: -1 should equal 140
+Testing for 9 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 12 and 62
+It should work for random inputs too: -1 should equal 282
+Testing for 32 and 99
+It should work for random inputs too: -1 should equal 1047
+Testing for 26 and 33
+It should work for random inputs too: -1 should equal 486
+Testing for 0 and 45
+It should work for random inputs too: -1 should equal 0
+Testing for 28 and 79
+It should work for random inputs too: -1 should equal 819
+Testing for 18 and 60
+It should work for random inputs too: -1 should equal 505
+Testing for 13 and 84
+It should work for random inputs too: -1 should equal 387
+Testing for 40 and 46
+It should work for random inputs too: -1 should equal 703
+Testing for 37 and 73
+It should work for random inputs too: -1 should equal 916
+Testing for 38 and 9
+It should work for random inputs too: -1 should equal 0
+Testing for 29 and 70
+It should work for random inputs too: -1 should equal 778
+Testing for 25 and 15
+It should work for random inputs too: -1 should equal 368
+Testing for 36 and 53
+It should work for random inputs too: -1 should equal 721
+Testing for 13 and 70
+It should work for random inputs too: -1 should equal 342
+Testing for 31 and 28
+It should work for random inputs too: -1 should equal 482
+Testing for 39 and 50
+It should work for random inputs too: -1 should equal 733
+Testing for 27 and 85
+It should work for random inputs too: -1 should equal 842
+Testing for 13 and 9
+It should work for random inputs too: -1 should equal 0
+Testing for 16 and 31
+It should work for random inputs too: -1 should equal 301
+Testing for 40 and 18
+It should work for random inputs too: -1 should equal 423
+Testing for 20 and 66
+It should work for random inputs too: -1 should equal 623
+Testing for 14 and 7
+It should work for random inputs too: -1 should equal 0
+Testing for 9 and 42
+It should work for random inputs too: -1 should equal 144
+Testing for 18 and 33
+It should work for random inputs too: -1 should equal 379
+Testing for 12 and 100
+It should work for random inputs too: -1 should equal 396
+Testing for 17 and 96
+It should work for random inputs too: -1 should equal 615
+Testing for 15 and 78
+It should work for random inputs too: -1 should equal 450
+Testing for 23 and 39
+It should work for random inputs too: -1 should equal 504
+Testing for 39 and 56
+It should work for random inputs too: -1 should equal 791
+Testing for 20 and 39
+It should work for random inputs too: -1 should equal 483
+Testing for 8 and 19
+It should work for random inputs too: -1 should equal 74
+Testing for 0 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 15 and 18
+It should work for random inputs too: -1 should equal 225
+Testing for 26 and 55
+It should work for random inputs too: -1 should equal 629
+Testing for 3 and 3
+It should work for random inputs too: -1 should equal 0
+Testing for 24 and 37
+It should work for random inputs too: -1 should equal 499
+Testing for 40 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 1 and 36
+It should work for random inputs too: -1 should equal 8
+Testing for 16 and 76
+It should work for random inputs too: -1 should equal 485
+Testing for 33 and 100
+It should work for random inputs too: -1 should equal 1085
+Testing for 40 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 23 and 9
+It should work for random inputs too: -1 should equal 0
+Testing for 25 and 32
+It should work for random inputs too: -1 should equal 480
+Testing for 26 and 76
+It should work for random inputs too: -1 should equal 772
+Testing for 4 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 36 and 63
+It should work for random inputs too: -1 should equal 811
+Testing for 18 and 56
+It should work for random inputs too: -1 should equal 487
+Testing for 27 and 55
+It should work for random inputs too: -1 should equal 640
+Testing for 14 and 87
+It should work for random inputs too: -1 should equal 436
+Testing for 17 and 34
+It should work for random inputs too: -1 should equal 352
+Testing for 14 and 22
+It should work for random inputs too: -1 should equal 212
+Testing for 38 and 77
+It should work for random inputs too: -1 should equal 970
+Testing for 29 and 31
+It should work for random inputs too: -1 should equal 488
+Testing for 2 and 82
+It should work for random inputs too: -1 should equal 42
+Testing for 35 and 1
+It should work for random inputs too: -1 should equal 0
+Testing for 35 and 59
+It should work for random inputs too: -1 should equal 763
+Testing for 11 and 65
+It should work for random inputs too: -1 should equal 254
+Testing for 35 and 77
+It should work for random inputs too: -1 should equal 920
+Testing for 27 and 5
+It should work for random inputs too: -1 should equal 0
+Testing for 27 and 75
+It should work for random inputs too: -1 should equal 775
+Testing for 36 and 78
+It should work for random inputs too: -1 should equal 955
+Testing for 24 and 28
+It should work for random inputs too: -1 should equal 451
+Testing for 22 and 42
+It should work for random inputs too: -1 should equal 519
+Testing for 6 and 55
+It should work for random inputs too: -1 should equal 101
+Testing for 22 and 94
+It should work for random inputs too: -1 should equal 805
+Testing for 39 and 100
+It should work for random inputs too: -1 should equal 1220
+Testing for 14 and 76
+It should work for random inputs too: -1 should equal 401
+Testing for 15 and 35
+It should work for random inputs too: -1 should equal 285
+Testing for 12 and 57
+It should work for random inputs too: -1 should equal 264
+Testing for 13 and 80
+It should work for random inputs too: -1 should equal 374
+Testing for 9 and 72
+It should work for random inputs too: -1 should equal 211
+Testing for 11 and 22
+It should work for random inputs too: -1 should equal 139
+Testing for 20 and 5
+It should work for random inputs too: -1 should equal 0
+Testing for 2 and 99
+It should work for random inputs too: -1 should equal 50
+Testing for 23 and 45
+It should work for random inputs too: -1 should equal 538
+Testing for 9 and 84
+It should work for random inputs too: -1 should equal 238
+Testing for 12 and 32
+It should work for random inputs too: -1 should equal 192
+Testing for 14 and 64
+It should work for random inputs too: -1 should equal 359
+Testing for 19 and 58
+It should work for random inputs too: -1 should equal 539
+Testing for 5 and 35
+It should work for random inputs too: -1 should equal 55
+Testing for 39 and 73
+It should work for random inputs too: -1 should equal 947
+Testing for 19 and 96
+It should work for random inputs too: -1 should equal 719
+Testing for 19 and 91
+It should work for random inputs too: -1 should equal 691
+Testing for 40 and 31
+It should work for random inputs too: -1 should equal 543
+Testing for 15 and 53
+It should work for random inputs too: -1 should equal 352
+Testing for 9 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 39 and 31
+It should work for random inputs too: -1 should equal 538
+Testing for 25 and 81
+It should work for random inputs too: -1 should equal 780
+Testing for 10 and 20
+It should work for random inputs too: -1 should equal 113
+Testing for 24 and 91
+It should work for random inputs too: -1 should equal 823
+Testing for 24 and 97
+It should work for random inputs too: -1 should equal 859
+Testing for 34 and 83
+It should work for random inputs too: -1 should equal 955
+Testing for 7 and 82
+It should work for random inputs too: -1 should equal 172
+Testing for 37 and 17
+It should work for random inputs too: -1 should equal 398
+Testing for 40 and 83
+It should work for random inputs too: -1 should equal 1063
+Testing for 27 and 75
+It should work for random inputs too: -1 should equal 775
+Testing for 13 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 30 and 81
+It should work for random inputs too: -1 should equal 868
+Testing for 4 and 47
+It should work for random inputs too: -1 should equal 53
+Testing for 10 and 95
+It should work for random inputs too: -1 should equal 298
+Testing for 17 and 37
+It should work for random inputs too: -1 should equal 360
+Testing for 5 and 57
+It should work for random inputs too: -1 should equal 82
+Testing for 4 and 37
+It should work for random inputs too: -1 should equal 43
+Testing for 27 and 69
+It should work for random inputs too: -1 should equal 734
+Testing for 28 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 6 and 43
+It should work for random inputs too: -1 should equal 83
+Testing for 17 and 82
+It should work for random inputs too: -1 should equal 556
+Testing for 19 and 21
+It should work for random inputs too: -1 should equal 358
+Testing for 30 and 12
+It should work for random inputs too: -1 should equal 358
+Testing for 28 and 18
+It should work for random inputs too: -1 should equal 399
+Testing for 34 and 28
+It should work for random inputs too: -1 should equal 496
+Testing for 38 and 85
+It should work for random inputs too: -1 should equal 1046
+Testing for 21 and 12
+It should work for random inputs too: -1 should equal 353
+Testing for 29 and 71
+It should work for random inputs too: -1 should equal 778
+Testing for 12 and 92
+It should work for random inputs too: -1 should equal 372
+Testing for 4 and 13
+It should work for random inputs too: -1 should equal 19
+Testing for 39 and 1
+It should work for random inputs too: -1 should equal 0
+Testing for 14 and 55
+It should work for random inputs too: -1 should equal 324
+Testing for 1 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 21 and 72
+It should work for random inputs too: -1 should equal 668
+Testing for 32 and 46
+It should work for random inputs too: -1 should equal 631
+Testing for 28 and 78
+It should work for random inputs too: -1 should equal 819
+Testing for 29 and 38
+It should work for random inputs too: -1 should equal 546
+Testing for 9 and 97
+It should work for random inputs too: -1 should equal 265
+Testing for 35 and 63
+It should work for random inputs too: -1 should equal 798
+Testing for 9 and 96
+It should work for random inputs too: -1 should equal 265
+Testing for 26 and 99
+It should work for random inputs too: -1 should equal 915
+Testing for 2 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 25 and 77
+It should work for random inputs too: -1 should equal 755
+Testing for 7 and 87
+It should work for random inputs too: -1 should equal 179
+Testing for 2 and 19
+It should work for random inputs too: -1 should equal 10
+Testing for 22 and 98
+It should work for random inputs too: -1 should equal 827
+Testing for 9 and 0
+It should work for random inputs too: -1 should equal 0
+Testing for 37 and 22
+It should work for random inputs too: -1 should equal 454
+Testing for 6 and 44
+It should work for random inputs too: -1 should equal 86
+Testing for 22 and 84
+It should work for random inputs too: -1 should equal 750
+Testing for 39 and 24
+It should work for random inputs too: -1 should equal 479
+Testing for 25 and 17
+It should work for random inputs too: -1 should equal 380
+Testing for 22 and 78
+It should work for random inputs too: -1 should equal 717
+Testing for 4 and 33
+It should work for random inputs too: -1 should equal 39
+Testing for 20 and 95
+It should work for random inputs too: -1 should equal 763
+Testing for 26 and 4
+It should work for random inputs too: -1 should equal 0
+Testing for 20 and 55
+It should work for random inputs too: -1 should equal 563
+Testing for 30 and 24
+It should work for random inputs too: -1 should equal 448
+Testing for 22 and 96
+It should work for random inputs too: -1 should equal 816
+Testing for 12 and 84
+It should work for random inputs too: -1 should equal 348
+Testing for 29 and 63
+It should work for random inputs too: -1 should equal 720
+Testing for 32 and 12
+It should work for random inputs too: -1 should equal 359
+Testing for 6 and 95
+It should work for random inputs too: -1 should equal 161
+Testing for 17 and 20
+It should work for random inputs too: -1 should equal 292
+Testing for 15 and 9
+It should work for random inputs too: -1 should equal 0
+Testing for 19 and 52
+It should work for random inputs too: -1 should equal 510
+Testing for 21 and 16
+It should work for random inputs too: -1 should equal 374
+Testing for 18 and 57
+It should work for random inputs too: -1 should equal 487
+Testing for 10 and 11
+It should work for random inputs too: -1 should equal 88
+Testing for 9 and 3
+It should work for random inputs too: -1 should equal 0
+Testing for 24 and 27
+It should work for random inputs too: -1 should equal 439
+Testing for 27 and 86
+It should work for random inputs too: -1 should equal 856
+Testing for 40 and 72
+It should work for random inputs too: -1 should equal 963
+Testing for 40 and 70
+It should work for random inputs too: -1 should equal 943
+Testing for 6 and 100
+It should work for random inputs too: -1 should equal 170
+Testing for 35 and 92
+It should work for random inputs too: -1 should equal 1060
+Testing for 19 and 79
+It should work for random inputs too: -1 should equal 634
+Testing for 4 and 43
+It should work for random inputs too: -1 should equal 49
+Testing for 10 and 67
+It should work for random inputs too: -1 should equal 228
+Testing for 37 and 53
+It should work for random inputs too: -1 should equal 731
+Testing for 23 and 77
+It should work for random inputs too: -1 should equal 722
+Testing for 31 and 27
+It should work for random inputs too: -1 should equal 467
+Testing for 6 and 24
+It should work for random inputs too: -1 should equal 56
+Testing for 35 and 92
+It should work for random inputs too: -1 should equal 1060
+Testing for 30 and 35
+It should work for random inputs too: -1 should equal 523
+Testing for 13 and 60
+It should work for random inputs too: -1 should equal 309
+Testing for 19 and 70
+It should work for random inputs too: -1 should equal 596
+Testing for 31 and 94
+It should work for random inputs too: -1 should equal 994
+Testing for 26 and 75
+It should work for random inputs too: -1 should equal 759
+Testing for 10 and 32
+It should work for random inputs too: -1 should equal 143
+Testing for 2 and 9
+It should work for random inputs too: -1 should equal 0
+Testing for 2 and 35
+It should work for random inputs too: -1 should equal 18
+Testing for 28 and 82
+It should work for random inputs too: -1 should equal 847
+Testing for 35 and 78
+It should work for random inputs too: -1 should equal 938
+Testing for 24 and 7
+It should work for random inputs too: -1 should equal 0
+Testing for 24 and 74
+It should work for random inputs too: -1 should equal 727
+Testing for 12 and 34
+It should work for random inputs too: -1 should equal 198
+Testing for 21 and 46
+It should work for random inputs too: -1 should equal 532
+Testing for 33 and 28
+It should work for random inputs too: -1 should equal 491
+Testing for 23 and 16
+It should work for random inputs too: -1 should equal 377
+Testing for 7 and 55
+It should work for random inputs too: -1 should equal 123
+Testing for 30 and 30
+It should work for random inputs too: -1 should equal 493
+Testing for 40 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 5 and 28
+It should work for random inputs too: -1 should equal 47
+Testing for 1 and 14
+It should work for random inputs too: -1 should equal 3
+Testing for 5 and 84
+It should work for random inputs too: -1 should equal 117
+Testing for 27 and 81
+It should work for random inputs too: -1 should equal 815
+Testing for 30 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 16 and 8
+It should work for random inputs too: -1 should equal 0
+Testing for 13 and 75
+It should work for random inputs too: -1 should equal 355
+Testing for 1 and 22
+It should work for random inputs too: -1 should equal 5
+Testing for 12 and 51
+It should work for random inputs too: -1 should equal 246
+Testing for 28 and 11
+It should work for random inputs too: -1 should equal 343
+Testing for 8 and 28
+It should work for random inputs too: -1 should equal 94
+Testing for 22 and 57
+It should work for random inputs too: -1 should equal 596
+Testing for 7 and 61
+It should work for random inputs too: -1 should equal 133
+Testing for 19 and 81
+It should work for random inputs too: -1 should equal 643
+Testing for 40 and 17
+It should work for random inputs too: -1 should equal 403
+Testing for 3 and 40
+It should work for random inputs too: -1 should equal 33
+Testing for 20 and 24
+It should work for random inputs too: -1 should equal 413
+Testing for 38 and 77
+It should work for random inputs too: -1 should equal 970
+Testing for 24 and 14
+It should work for random inputs too: -1 should equal 367
+Testing for 39 and 78
+It should work for random inputs too: -1 should equal 1006
+Testing for 37 and 14
+It should work for random inputs too: -1 should equal 380
+Testing for 22 and 43
+It should work for random inputs too: -1 should equal 519
+Testing for 13 and 71
+It should work for random inputs too: -1 should equal 342
+Testing for 8 and 96
+It should work for random inputs too: -1 should equal 230
+Testing for 35 and 99
+It should work for random inputs too: -1 should equal 1113
+Testing for 34 and 96
+It should work for random inputs too: -1 should equal 1074
+Testing for 25 and 95
+It should work for random inputs too: -1 should equal 868
+Testing for 0 and 1
+It should work for random inputs too: -1 should equal 0
+Testing for 9 and 76
+It should work for random inputs too: -1 should equal 220
+Testing for 36 and 89
+It should work for random inputs too: -1 should equal 1045
+Testing for 19 and 83
+It should work for random inputs too: -1 should equal 653
+Testing for 8 and 63
+It should work for random inputs too: -1 should equal 162
+Testing for 19 and 3
+It should work for random inputs too: -1 should equal 0
+Testing for 35 and 42
+It should work for random inputs too: -1 should equal 623
+Testing for 25 and 27
+It should work for random inputs too: -1 should equal 443
+Testing for 10 and 95
+It should work for random inputs too: -1 should equal 298
+Testing for 3 and 73
+It should work for random inputs too: -1 should equal 57
+Testing for 0 and 77
+It should work for random inputs too: -1 should equal 0
+Testing for 24 and 28
+It should work for random inputs too: -1 should equal 451
+Testing for 7 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 39 and 7
+It should work for random inputs too: -1 should equal 0
+Testing for 7 and 66
+It should work for random inputs too: -1 should equal 144
+Testing for 10 and 73
+It should work for random inputs too: -1 should equal 243
+Testing for 29 and 2
+It should work for random inputs too: -1 should equal 0
+Testing for 14 and 56
+It should work for random inputs too: -1 should equal 331
+Testing for 32 and 79
+It should work for random inputs too: -1 should equal 887
+Testing for 17 and 16
+It should work for random inputs too: -1 should equal 275
+Testing for 40 and 92
+It should work for random inputs too: -1 should equal 1163
+Testing for 35 and 92
+It should work for random inputs too: -1 should equal 1060
+Testing for 39 and 46
+It should work for random inputs too: -1 should equal 694
+Testing for 15 and 29
+It should work for random inputs too: -1 should equal 262
+Testing for 8 and 90
+It should work for random inputs too: -1 should equal 218
+Testing for 12 and 79
+It should work for random inputs too: -1 should equal 330
+Testing for 36 and 3
+It should work for random inputs too: -1 should equal 0
+Testing for 10 and 47
+It should work for random inputs too: -1 should equal 178
+Testing for 24 and 94
+It should work for random inputs too: -1 should equal 847
+Testing for 29 and 11
+It should work for random inputs too: -1 should equal 343
+Testing for 23 and 93
+It should work for random inputs too: -1 should equal 814
+Testing for 0 and 96
+It should work for random inputs too: -1 should equal 0
+Testing for 36 and 28
+It should work for random inputs too: -1 should equal 505
+Testing for 18 and 24
+It should work for random inputs too: -1 should equal 343
+Testing for 39 and 70
+It should work for random inputs too: -1 should equal 928
+Testing for 13 and 82
+It should work for random inputs too: -1 should equal 381
+Testing for 10 and 57
+It should work for random inputs too: -1 should equal 203
+Testing for 36 and 61
+It should work for random inputs too: -1 should equal 793
+Testing for 30 and 27
+It should work for random inputs too: -1 should equal 463
+Testing for 21 and 10
+It should work for random inputs too: -1 should equal 0
+Testing for 33 and 63
+It should work for random inputs too: -1 should equal 772
+Testing for 17 and 32
+It should work for random inputs too: -1 should equal 343
+Testing for 14 and 56
+It should work for random inputs too: -1 should equal 331
+Testing for 18 and 71
+It should work for random inputs too: -1 should equal 550
+Testing for 4 and 0
+It should work for random inputs too: -1 should equal 0
+Testing for 21 and 60
+It should work for random inputs too: -1 should equal 605
+Testing for 1 and 59
+It should work for random inputs too: -1 should equal 14
+Testing for 31 and 18
+It should work for random inputs too: -1 should equal 405
+Testing for 7 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 10 and 99
+It should work for random inputs too: -1 should equal 308
+Testing for 32 and 19
+It should work for random inputs too: -1 should equal 407
+Testing for 0 and 42
+It should work for random inputs too: -1 should equal 0
+Testing for 29 and 74
+It should work for random inputs too: -1 should equal 807
+Testing for 31 and 91
+It should work for random inputs too: -1 should equal 963
+Testing for 16 and 51
+It should work for random inputs too: -1 should equal 381
+Testing for 18 and 85
+It should work for random inputs too: -1 should equal 613
+Testing for 32 and 14
+It should work for random inputs too: -1 should equal 375
+Testing for 24 and 5
+It should work for random inputs too: -1 should equal 0
+Testing for 33 and 84
+It should work for random inputs too: -1 should equal 953
+Testing for 3 and 57
+It should work for random inputs too: -1 should equal 45
+Testing for 34 and 60
+It should work for random inputs too: -1 should equal 768
+Testing for 14 and 74
+It should work for random inputs too: -1 should equal 394
+Testing for 13 and 82
+It should work for random inputs too: -1 should equal 381
+Testing for 24 and 59
+It should work for random inputs too: -1 should equal 631
+Testing for 7 and 83
+It should work for random inputs too: -1 should equal 172
+Testing for 33 and 9
+It should work for random inputs too: -1 should equal 0
+Testing for 12 and 66
+It should work for random inputs too: -1 should equal 294
+Testing for 9 and 33
+It should work for random inputs too: -1 should equal 121
+Testing for 1 and 73
+It should work for random inputs too: -1 should equal 17
+Testing for 31 and 100
+It should work for random inputs too: -1 should equal 1040
+Testing for 12 and 94
+It should work for random inputs too: -1 should equal 378
+Testing for 31 and 7
+It should work for random inputs too: -1 should equal 0
+Testing for 5 and 45
+It should work for random inputs too: -1 should equal 67
+Testing for 39 and 12
+It should work for random inputs too: -1 should equal 362
+Testing for 4 and 97
+It should work for random inputs too: -1 should equal 103
+Testing for 20 and 26
+It should work for random inputs too: -1 should equal 423
+Testing for 1 and 77
+It should work for random inputs too: -1 should equal 18
+Testing for 11 and 66
+It should work for random inputs too: -1 should equal 260
+Testing for 5 and 43
+It should work for random inputs too: -1 should equal 65
+Testing for 29 and 38
+It should work for random inputs too: -1 should equal 546
+Testing for 21 and 89
+It should work for random inputs too: -1 should equal 752
+Testing for 19 and 6
+It should work for random inputs too: -1 should equal 0
+Testing for 25 and 37
+It should work for random inputs too: -1 should equal 505
+Testing for 36 and 99
+It should work for random inputs too: -1 should equal 1135
+Testing for 37 and 93
+It should work for random inputs too: -1 should equal 1101
